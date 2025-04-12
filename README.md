@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Rishi Vishwanath
 
 ## 💼 About Me
-I'm a passionate Computer Science Engineering student at PES University with a focus on backend development, machine learning, and distributed systems. I thrive on solving complex problems and building scalable applications that create meaningful impact.
+I'm a passionate Computer Science Engineering student at PES University with a focus on Data Structures and Algorithms, machine learning, and Big Data. I thrive on solving complex problems and building scalable applications that create meaningful impact.
 
 ## 🎓 Education
 - **B.Tech in Computer Science Engineering** at PES University, RR Campus (2022-2026)
