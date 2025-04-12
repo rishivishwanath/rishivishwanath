@@ -39,55 +39,6 @@ I'm a passionate Computer Science Engineering student at PES University with a f
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
 
-## 🚀 Featured Projects
-
-### [EmoStream: Concurrent Emoji Broadcast over Event-Driven Architecture](https://github.com/rishivishwanath/emostream_concurrent_emoji_broadcast_over_event_driven_architecture)
-- Led development of a real-time, event-driven system enhancing user engagement on platforms like Hotstar
-- Engineered a horizontally scalable architecture using Kafka for efficient data streaming
-- Implemented Spark for real-time analytics with high concurrency and minimal latency
-- **Tech stack:** Kafka, Spark, Big Data, Real-time Processing, Python
-
-### [Exercise Detection and Rep Count](https://github.com/rishivishwanath/body_lang_detection_basic)
-- Developed a real-time exercise detection and repetition counting system using Jupyter Notebook
-- Utilized MediaPipe Holistic model for pose estimation and TensorFlow for classification
-- Implemented OpenCV for real-time video processing
-- **Tech stack:** TensorFlow, MediaPipe, OpenCV, Computer Vision, Jupyter Notebook
-
-### [Plant Disease Image Classification](https://github.com/rishivishwanath/plant-disease-classification)
-- Designed and trained a deep learning model to detect and classify plant diseases from leaf images
-- Used OpenCV for image preprocessing including noise reduction and feature extraction
-- **Tech stack:** TensorFlow, OpenCV, Deep Learning
-
-### [Customer Segmentation Analysis](https://github.com/rishivishwanath/customer-segmentation)
-- Performed customer segmentation using K-Means clustering on shopping mall customer data
-- Visualized clustering results using Matplotlib and Seaborn
-- **Tech stack:** Python, K-Means, Matplotlib, Seaborn
-
-## 💻 Other GitHub Projects
-
-### [Portfolio Website](https://github.com/rishivishwanath/portfolio-lake-xi-39)
-- Personal portfolio website built with modern web technologies
-- Responsive design with interactive elements
-- **Tech stack:** HTML, CSS, JavaScript, React
-
-### [Data Structures and Algorithms](https://github.com/rishivishwanath/dsa-practice)
-- Collection of DSA implementations and problem solutions
-- Includes common algorithms and data structures
-- **Tech stack:** C++, Python
-
-### [Machine Learning Mini Projects](https://github.com/rishivishwanath/ml-mini-projects)
-- Various small machine learning projects and experiments
-- Includes classifier implementations and data analysis
-- **Tech stack:** Python, scikit-learn, TensorFlow, Pandas
-
-### [Web Development Playground](https://github.com/rishivishwanath/web-dev-projects)
-- Collection of web development experiments and small projects
-- Frontend components and responsive design implementations
-- **Tech stack:** HTML, CSS, JavaScript, React
-
-## 🏆 Achievements & Hackathons
-- **Morgan Stanley Code To Give 2025:** Finalist - Built an accessible event management platform for Samarthanam Trust for the Disabled
-- **PwC LaunchPad:** IT Fundamentals Certification
 
 ## 📊 GitHub Stats
 
