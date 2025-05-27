@@ -53,5 +53,5 @@ I'm a passionate Computer Science Engineering student at PES University with a f
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://portfolio-lake-xi-39.vercel.app/)
 
 ---
-📱 Mobile: +91-8217768067 | 🌐 [Portfolio Website](https://portfolio-lake-xi-39.vercel.app/)
+📱 Mobile Number: +91-8217768067 | 🌐 [Portfolio Website](https://portfolio-lake-xi-39.vercel.app/)
 
