@@ -5,7 +5,7 @@ I'm a passionate Computer Science Engineering student at PES University with a f
 
 ## 🎓 Education
 - **B.Tech in Computer Science Engineering** at PES University, RR Campus (2022-2026)
-  - GPA: 8.33
+  - GPA: 8.40
 - **PU** at Deeksha CFL, Bangalore (2020-2022)
   - KCET Rank: 415
 - **ICSE** at St. Mary's International School, Chikkamagaluru (2010-2020)
